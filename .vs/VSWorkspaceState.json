@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Web",
+    "\\Web\\Resources"
   ],
-  "SelectedNode": "\\C:\\Users\\Suchan7820\\Source\\Repos\\RedefinedKRFont",
+  "SelectedNode": "\\Web\\index.html",
   "PreviewInSolutionExplorer": false
 }
