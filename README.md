@@ -1,5 +1,5 @@
 # Redefined KRFont
-Grand Theft Auto 온라인에서 사용할 수 있는 한글폰트❤️
+Better AutodeskScaleform fontset for Grand Theft Auto V/Online
 
 ## 소개
 GTA 온라인은 언어 설정 시 해당 언어에서 사용하는 폰트 라이브러리 단 하나를 로드합니다.
